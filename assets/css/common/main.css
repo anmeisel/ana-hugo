@@ -82,7 +82,7 @@ pre:hover .copy-code {
     color: transparent;
     width: 40px;
     height: 40px;
-    filter: blur(8px);
+    filter: blur(10px);
     z-index: -1 !important;
 }
 
@@ -114,8 +114,8 @@ pre:hover .copy-code {
 }
 
 .floating:nth-of-type(5) {
-    margin-top: 60vh;
-    margin-left: 20vw;
+    margin-top: 90vh;
+    margin-left: 30vw;
 }
 
 .floating-images {

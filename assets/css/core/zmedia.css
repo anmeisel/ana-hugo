@@ -23,6 +23,18 @@
         margin-top: 20px;
     }
 
+    .logo-switches, .logo .blurry {
+        margin-bottom: 1rem;
+    }
+
+    .logo .blurry {
+        filter: blur(5px);
+    }
+
+    .floating, .flame {
+        display: none;
+    }
+
     /* footer */
     .footer {
         /* padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap); */

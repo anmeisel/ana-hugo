@@ -102,7 +102,7 @@ span.accessibility-title {
 
 #moon, #sun {
     border-bottom: 1px solid var(--secondary);
-    margin-left: -2px;
+    margin-left: 0px;
 }
 
 .blurry {
@@ -112,8 +112,12 @@ span.accessibility-title {
     width: 123px;
     padding-top: 0;
     line-height: 1.3em;
-    bottom: 0px;
+    bottom: -4px;
     padding: 5px;
-    filter: blur(10px);
+    filter: blur(8px);
     z-index: -1;
+}
+
+.accessibility-title:nth-of-type(1) {
+    margin-left:5px;
 }

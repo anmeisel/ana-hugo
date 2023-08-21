@@ -9,43 +9,43 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-###
+###### &nbsp; &nbsp; academic
 
-###### academic
+&nbsp; &nbsp; &nbsp; &nbsp; [Gerrit Rietveld Academie, Political Bodies](https://political-bodies.vercel.app/)
 
-[Gerrit Rietveld Academie, Political Bodies](https://political-bodies.vercel.app/)
-
-[Giancarlo M. Sandoval](https://neophyte.ink/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Giancarlo M. Sandoval](https://neophyte.ink/)
 #####
-###### portfolios
+###### &nbsp; &nbsp; portfolios
 
-[Kasia Lukasik](https://kasialukasik.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Kasia Lukasik](https://kasialukasik.com/)
 
-[April Lin](https://april-lin.work/)
+&nbsp; &nbsp; &nbsp; &nbsp; [April Lin](https://april-lin.work/)
 
-[Effie](https://effietype.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Effie](https://effietype.com/)
 #####
-###### exhibitions
+###### &nbsp; &nbsp; exhibitions
 
-[External Pages](https://externalpages.org/)
+&nbsp; &nbsp; &nbsp; &nbsp; [External Pages](https://externalpages.org/)
 
-[Adventitious Roots](https://adventitiousroots.net/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Adventitious Roots](https://adventitiousroots.net/)
 
-[Love, Journaled](https://love-journaled.space/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Love, Journaled](https://love-journaled.space/)
 
-[Probiotic Rituals](https://probioticrituals.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Probiotic Rituals](https://probioticrituals.com/)
 #####
-###### archives
+###### &nbsp; &nbsp; archives
 
-[Otherness Archive](https://othernessarchive.com/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Otherness Archive](https://othernessarchive.com/)
 
-[Our Friend the Computer](https://ourfriendthe.computer/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Our Friend the Computer](https://ourfriendthe.computer/)
 #####
-###### fun
+###### &nbsp; &nbsp; fun
 
-[Second Cousin Vintage](https://second-cousin.vercel.app/)
+&nbsp; &nbsp; &nbsp; &nbsp; [Second Cousin Vintage](https://second-cousin.vercel.app/)
 
-[The Right Lube](https://the-right-lube.vercel.app/)
+&nbsp; &nbsp; &nbsp; &nbsp; [The Right Lube](https://the-right-lube.vercel.app/)
+
+&nbsp; &nbsp; &nbsp; &nbsp; [My previous website ~](ana-help-1ubx8it99-anicka.vercel.app)
 
 
 
