@@ -9,7 +9,7 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel (b. Prague, CZ) is a Polish-German web developer and videographer. Based in London, UK, she produces online courses for the University of London, and occasionally teaches design at Goldsmiths, University of London. She builds websites as part of [4 Us & 4 Others](https://4us4others.com/?to=/) studio, runs an internet art gallery [External Pages](https://externalpages.org/) and is one half of [Our Friend The Computer](https://www.ourfriendthe.computer/), a tech history podcast. 
+Ana Meisel (b. Prague, CZ) is a Polish-German web developer and videographer based in London, UK. She produces online courses for the University of London, and occasionally teaches design at Goldsmiths, University of London. She builds websites as part of [4 Us & 4 Others](https://4us4others.com/?to=/) studio, runs internet art gallery [External Pages](https://externalpages.org/), and is one half of [Our Friend The Computer](https://www.ourfriendthe.computer/), a tech history podcast. 
 
 Interests include luddism and maintainer communities.
 
