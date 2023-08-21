@@ -3,23 +3,23 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
+    <span>&copy; {{ now.Year }} <a href="https://github.com/anmeisel">{{ site.Title }}</a></span>
     {{- end }}
-    <span>
-        Powered by
+    <p>
+        This is a static site powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
-    </span>
-    <div id=page-size>{{ i18n "pagesize" | default "Page Size"}}: <span id="size-value"> $PLACEHOLDER</span></div>
+        <div id=page-size>{{ i18n "pagesize" | default "Page Size"}}: <span id="size-value"> 47.6 MB</span></div>
+    </p>
 </footer>
 {{- end }}
 
-{{- if (not site.Params.disableScrollToTop) }}
+<!-- {{- if (not site.Params.disableScrollToTop) }}
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
 </a>
-{{- end }}
+{{- end }} -->
 
 {{- partial "extend_footer.html" . }}
 

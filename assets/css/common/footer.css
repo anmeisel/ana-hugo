@@ -1,18 +1,22 @@
 .footer,
 .top-link {
-    font-size: 10px;
+    font-size: 11px;
     color: var(--secondary);
 }
 
 .footer {
+    position: relative;
     /* max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
     text-align: center;
     line-height: 24px; */
+    /* left: 0; */
+    /* margin-bottom: 20px; */
+    /* bottom: 0; */
     margin-left: 20px;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 12px;
+    z-index: 1;
 }
 
 .footer span {
@@ -27,11 +31,14 @@
 .footer a {
     color: inherit;
     border-bottom: 1px solid var(--secondary);
+    /* box-shadow: none !important;
+    text-decoration: underline;
+    text-decoration-style: dotted; */
 }
 
-.footer a:hover {
+/* .footer a:hover {
     border-bottom: 1px solid var(--primary);
-}
+} */
 
 .top-link {
     visibility: hidden;
@@ -52,10 +59,10 @@
     filter: drop-shadow(0px 0px 0px var(--theme));
 }
 
-.footer a:hover,
+/* .footer a:hover,
 .top-link:hover {
     color: var(--primary);
-}
+} */
 
 .top-link:focus,
 #theme-toggle:focus {

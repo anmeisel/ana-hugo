@@ -36,11 +36,16 @@
     color: var(--content);
 }
 
-.post-content h3,
-.post-content h4,
-.post-content h5,
-.post-content h6 {
+.post-content h4{
     margin: 24px 0 16px;
+}
+
+.post-content h3 {
+    margin: 13px 0 10px;
+}
+
+.post-content h5 {
+    margin: 10px 0 10px;
 }
 
 .post-content h1 {
@@ -54,7 +59,7 @@
 }
 
 .post-content h3 {
-    font-size: 24px;
+    font-size: 5px;
 }
 
 .post-content h4 {
@@ -62,11 +67,12 @@
 }
 
 .post-content h5 {
-    font-size: 14px;
+    font-size: 8px;
 }
 
 .post-content h6 {
-    font-size: 12px;
+    font-size: 14px;
+    margin-bottom: 2px;
 }
 
 .post-content a,
@@ -88,7 +94,6 @@
 
 .post-content dl,
 .post-content ol,
-.post-content p,
 .post-content figure,
 .post-content ul {
     margin-bottom: var(--content-gap);
@@ -344,14 +349,20 @@
 h1:hover .anchor,
 h2:hover .anchor,
 h3:hover .anchor,
-h4:hover .anchor,
-h5:hover .anchor,
-h6:hover .anchor {
+h4:hover .anchor {
     display: inline-flex;
     color: var(--secondary);
     margin-inline-start: 8px;
     font-weight: 500;
     user-select: none;
+}
+
+h4, h2 {
+    color: var(--tertiary);
+}
+
+h6 {
+    color: var(--quaternary)
 }
 
 .paginav {

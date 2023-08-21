@@ -6,21 +6,8 @@
     position: fixed;
     right: 0;
     bottom: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     /* line-height: var(--header-height); */
-    z-index: 3;
-}
-
-.blurry {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    margin-right: 31px;
-    margin-bottom: 19px;
-    width: 25px;
-    height: 25px;
-    background-color: var(--reverse-theme);
-    filter: blur(0.5em);
     z-index: 2;
 }
 
@@ -39,8 +26,8 @@
 }
 
 .logo a {
-    font-size: 24px;
-    font-weight: 700;
+    font-size: 10px;
+    font-weight: normal;
 }
 
 .logo a img, .logo a svg {
@@ -60,12 +47,10 @@ button#theme-toggle {
 body.dark #moon {
     vertical-align: middle;
     display: none;
-    background-color: red;
 }
 
 body:not(.dark) #sun {
     display: none;
-    background-color: blue;
 }
 
 #menu {
@@ -108,4 +93,28 @@ body:not(.dark) #sun {
 
 .logo-switches {
     flex-wrap: inherit;
+}
+
+span.accessibility-title {
+    font-size: 11px;
+    color: var(--secondary);
+    vertical-align: middle;
+}
+
+#moon, #sun {
+    border-bottom: 1px solid var(--secondary);
+    margin-left: -2px;
+}
+
+.blurry {
+    background-color: var(--blur-theme);
+    color: transparent;
+    position: absolute;
+    width: 123px;
+    padding-top: 0;
+    line-height: 1.3em;
+    bottom: 0px;
+    padding: 5px;
+    filter: blur(10px);
+    z-index: -1;
 }

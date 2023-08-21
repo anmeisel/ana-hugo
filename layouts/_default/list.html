@@ -30,6 +30,42 @@
 </header>
 {{- end }}
 
+<div class="floating">
+<div class="floating-images">
+  <div class="blurry2">.</div>
+  <div class="sun">☼</div>
+</div>
+</div>
+
+<div class="floating">
+<div class="floating-images">
+  <div class="blurry2">.</div>
+  <div class="star">☆</div>
+</div>
+</div>
+
+<div class="floating">
+<div class="floating-images">
+  <div class="blurry2">.</div>
+  <div class="snowman">☃</div>
+</div>
+</div>
+
+<div class="floating">
+  <div class="floating-images">
+    <div class="blurry2">.</div>
+    <div class="sign">☭</div>
+</div>
+</div>
+
+<div class="floating">
+<div class="floating-images">
+  <div class="blurry2">.</div>
+  <div class="scissors">✄</div>
+</div>
+</div>
+  
+
 {{- if .Content }}
 <div class="post-content">
   {{- if not (.Param "disableAnchoredHeadings") }}
@@ -73,15 +109,20 @@
     </h2>
   </header>
   {{- if (ne (.Param "hideSummary") true) }}
-  <div class="entry-content">
-    <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
   </div>
   {{- end }}
-  {{- if not (.Param "hideMeta") }}
-  <footer class="entry-footer">
-    {{- partial "post_meta.html" . -}}
-  </footer>
   {{- end }}
+  {{- if not (.Param "hideMeta") }}
+  <!-- <footer class="entry-footer">
+    {{- partial "post_meta.html" . -}}
+  </footer> -->
+  {{- end }}
+  <!-- <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a> -->
 </article>
 {{- end }}
 
