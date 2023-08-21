@@ -17,17 +17,17 @@ disableAnchoredHeadings: true
 #####
 ###### &nbsp; &nbsp; portfolios
 
-&nbsp; &nbsp; &nbsp; &nbsp; [Kasia Lukasik](https://kasialukasik.com/)
-
 &nbsp; &nbsp; &nbsp; &nbsp; [April Lin](https://april-lin.work/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; [Effie](https://effietype.com/)
+
+&nbsp; &nbsp; &nbsp; &nbsp; [Kasia Lukasik](https://kasialukasik.com/)
 #####
 ###### &nbsp; &nbsp; exhibitions
 
-&nbsp; &nbsp; &nbsp; &nbsp; [External Pages](https://externalpages.org/)
-
 &nbsp; &nbsp; &nbsp; &nbsp; [Adventitious Roots](https://adventitiousroots.net/)
+
+&nbsp; &nbsp; &nbsp; &nbsp; [External Pages](https://externalpages.org/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; [Love, Journaled](https://love-journaled.space/)
 
@@ -41,11 +41,11 @@ disableAnchoredHeadings: true
 #####
 ###### &nbsp; &nbsp; fun
 
+&nbsp; &nbsp; &nbsp; &nbsp; [My previous website ~](ana-help-1ubx8it99-anicka.vercel.app)
+
 &nbsp; &nbsp; &nbsp; &nbsp; [Second Cousin Vintage](https://second-cousin.vercel.app/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; [The Right Lube](https://the-right-lube.vercel.app/)
-
-&nbsp; &nbsp; &nbsp; &nbsp; [My previous website ~](ana-help-1ubx8it99-anicka.vercel.app)
 
 
 
