@@ -141,6 +141,7 @@ pre:hover .copy-code {
     background-color: var(--flame);
     text-align: center;
     padding-bottom: 5px;
+    font-size: 15px;
 }
 
 .flame h6 {
@@ -149,4 +150,5 @@ pre:hover .copy-code {
 
 .flame h6 a {
     color: var(--quaternary) !important;
+    border-bottom: 1px solid var(--quaternary);
 }

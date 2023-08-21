@@ -3,13 +3,13 @@
     {{- if site.Copyright }}
     <span>{{ site.Copyright | markdownify }}</span>
     {{- else }}
-    <span>&copy; {{ now.Year }} <a href="https://github.com/anmeisel">{{ site.Title }}</a></span>
+    <span>&copy; {{ now.Year }} <a href="https://github.com/anmeisel">{{ site.Title }}</a>,</span>
     {{- end }}
-    <p>
+    <span>
         This is a static site powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>
-        <div id=page-size>{{ i18n "pagesize" | default "Page Size"}}: <span id="size-value"> 47.6 MB</span></div>
-    </p>
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a>,
+        <span id=page-size>{{ i18n "pagesize" | default "Page Size"}}: <span id="size-value"> 47.6 MB</span></span>
+    </span>
 </footer>
 {{- end }}
 
