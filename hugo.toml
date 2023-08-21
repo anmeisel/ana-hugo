@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://main--snazzy-semolina-84057c.netlify.app/'
 languageCode = 'en-us'
 title = 'Ana Meisel'
 theme = 'hugo-PaperMod'
