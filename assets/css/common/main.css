@@ -90,6 +90,7 @@ pre:hover .copy-code {
     position: absolute;
     z-index: 5;
     font-size: 30px;
+    pointer-events: none;
 }
 
 .floating:nth-of-type(1) {
@@ -129,4 +130,23 @@ pre:hover .copy-code {
     margin: 0;
     line-height: 40px;
     vertical-align: middle;
+}
+
+.flame {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 6;
+    width: 100px;
+    background-color: var(--flame);
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.flame h6 {
+    margin-top: 5px;
+}
+
+.flame h6 a {
+    color: var(--quaternary) !important;
 }

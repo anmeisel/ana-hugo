@@ -14,6 +14,7 @@
     --tertiary: rgba(204, 0, 204, 1);
     --quaternary: rgba(204, 112, 0, 1);
     --content: black;
+    --flame: black;
     --hljs-bg: rgba(65, 66, 68, 0.25);
     --code-bg: rgba(65, 66, 68, 0.25);
     --border: rgba(65, 66, 68, 0.25);
@@ -28,6 +29,7 @@
     --tertiary: black;
     --quaternary: black;
     --content: black;
+    --flame: white;
     --hljs-bg: white;
     --code-bg: white;
     --border: white;
