@@ -39,6 +39,10 @@
     .footer {
         /* padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap); */
     }
+
+    .post-content h6 {
+        margin-left: -1em;
+    }
 }
 
 /* footer */
