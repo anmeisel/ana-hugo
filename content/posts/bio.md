@@ -3,13 +3,13 @@ title: "Bio"
 date: 2023-08-12T13:25:44+01:00
 draft: false
 cover: 
-    image: imgs/PXL_20230818_120028339.jpg
-    alt: "screenshot of card that says Always so proud of you"
-    caption: "screenshot of card that says Always so proud of you"
+    image: imgs/PXL_20230829_115536914.jpg
+    alt: "my favourite mountain view in Switzerland"
+    caption: "my favourite mountain view in Switzerland"
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel (b. Prague, CZ) is a Polish-German web developer and videographer based in London, UK. She produces online courses for the University of London, and occasionally teaches design at Goldsmiths, University of London. She builds websites as part of [4 Us & 4 Others](https://4us4others.com/?to=/) studio, runs internet art gallery [External Pages](https://externalpages.org/), and is one half of [Our Friend The Computer](https://www.ourfriendthe.computer/), a tech history podcast. 
+Ana Meisel is a Polish-German web developer and videographer from Czechia, based in London, UK. She produces online courses for the University of London, and occasionally teaches design at Goldsmiths, University of London. She builds websites as part of [4 Us & 4 Others](https://4us4others.com/?to=/) studio, runs internet art gallery [External Pages](https://externalpages.org/), and is one half of [Our Friend The Computer](https://www.ourfriendthe.computer/), a tech history podcast. 
 
 Interests include luddism and maintainer communities.
 
@@ -26,7 +26,7 @@ Interests include luddism and maintainer communities.
 &nbsp; &nbsp; &nbsp; &nbsp; [Studio Jetstream's site](https://jetstream-ui.vercel.app/)
 
 ###### &nbsp; &nbsp; reading 
-&nbsp; &nbsp; &nbsp;&nbsp; [Useful Work versus Useless Toil](https://wmgallery.shop/products/useful-work-versus-useless-toil-william-morris) By William Morris
+&nbsp; &nbsp; &nbsp;&nbsp; [Blood Meridian: Or the Evening Redness in the West](https://en.wikipedia.org/wiki/Blood_Meridian) By Cormac McCarthy
 #####
 
 #### Contact
