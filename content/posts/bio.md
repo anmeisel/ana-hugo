@@ -19,12 +19,12 @@ Interests include luddism and maintainer communities.
 
 ###### &nbsp; &nbsp; working with
 &nbsp; &nbsp; &nbsp; &nbsp; Hugo, Next.js and TypeScript
-
+#####
 ###### &nbsp; &nbsp; working on
 &nbsp; &nbsp; &nbsp; &nbsp; [Ari's site](https://ari-ui.vercel.app/)
 
 &nbsp; &nbsp; &nbsp; &nbsp; [Studio Jetstream's site](https://jetstream-ui.vercel.app/)
-
+#####
 ###### &nbsp; &nbsp; reading 
 &nbsp; &nbsp; &nbsp;&nbsp; [Blood Meridian: Or the Evening Redness in the West](https://en.wikipedia.org/wiki/Blood_Meridian) By Cormac McCarthy
 #####
