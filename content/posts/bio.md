@@ -3,9 +3,9 @@ title: "Bio"
 date: 2023-08-12T13:25:44+01:00
 draft: false
 cover: 
-    image: imgs/PXL_20230829_115536914.jpg
-    alt: "my favourite mountain view in Switzerland"
-    caption: "my favourite mountain view in Switzerland"
+    image: imgs/PXL_20231001_144518004.jpg
+    alt: "llama at mudchute farm"
+    caption: "llama at mudchute farm"
 disableAnchoredHeadings: true
 ---
 
@@ -26,7 +26,7 @@ Interests include luddism and maintainer communities.
 &nbsp; &nbsp; &nbsp; &nbsp; [Studio Jetstream's site](https://jetstream-ui.vercel.app/)
 #####
 ###### &nbsp; &nbsp; reading 
-&nbsp; &nbsp; &nbsp;&nbsp; [Blood Meridian: Or the Evening Redness in the West](https://en.wikipedia.org/wiki/Blood_Meridian) By Cormac McCarthy
+&nbsp; &nbsp; &nbsp;&nbsp; [The Way Home: Tales from a Life Without Technology](https://www.waterstones.com/book/the-way-home/mark-boyle/9781786077271) By Mark Boyle
 #####
 
 #### Contact

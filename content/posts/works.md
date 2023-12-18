@@ -3,9 +3,9 @@ title: "Selected websites"
 date: 2023-08-12T13:22:44+01:00
 draft: false
 cover: 
-    image: imgs/PXL_20230816_171136341.jpg
-    alt: "pic of cat on the pavement"
-    caption: "pic of cat on the pavement"
+    image: imgs/PXL_20230926_134450390.jpg
+    alt: "pic of old photoshop manual"
+    caption: "pic of old photoshop manual"
 disableAnchoredHeadings: true
 ---
 
