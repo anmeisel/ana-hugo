@@ -87,7 +87,7 @@ pre:hover .copy-code {
 }
 
 .floating {
-    position: absolute;
+    position: fixed;
     z-index: 5;
     font-size: 30px;
     pointer-events: none;
