@@ -3,9 +3,9 @@ title: "Selected websites"
 date: 2023-08-12T13:22:44+01:00
 draft: false
 cover: 
-    image: imgs/PXL_20230926_134450390.jpg
-    alt: "pic of old photoshop manual"
-    caption: "pic of old photoshop manual"
+    image: imgs/PXL_20231229_123125073.jpg
+    alt: "checkout saying Pomelo Ugly"
+    caption: "checkout saying Pomelo Ugly"
 disableAnchoredHeadings: true
 ---
 
