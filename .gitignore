@@ -21,3 +21,9 @@ __pycache__/
 *$py.class
 
 .vercel
+
+portfolio-ui/src/client.js
+node_modules
+node_modules
+node_modules
+node_modules
