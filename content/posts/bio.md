@@ -9,9 +9,9 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel is a Polish-German web developer and videographer from Czechia, based in London, UK. She is currently studying Software Engineering in Bristol, occasionally teaches design at Goldsmiths, University of London and is part of the research group <i>Superkilogirls</i>. For extra hustle, she builds websites as part of [4 Us & 4 Others](https://4us4others.com/?to=/) web dev studio, runs internet art gallery [External Pages](https://externalpages.org/), and is one half of [Our Friend The Computer](https://www.ourfriendthe.computer/), a tech history podcast. 
+Ana Meisel is a Polish-German web developer and software engineer from Czechia, based in London, UK. She runs internet art gallery [External Pages](https://externalpages.org/), is one half of tech history podcast [Our Friend The Computer](https://www.ourfriendthe.computer/) and one third of research group <i>Superkilogirls</i>. 
 
-Interests include luddism and maintainer communities.
+Interests include: luddism and maintainer communities.
 
 #####
 
@@ -26,7 +26,7 @@ Interests include luddism and maintainer communities.
 &nbsp; &nbsp; &nbsp; &nbsp; [Studio Jetstream's site](https://jetstream-ui.vercel.app/)
 #####
 ###### &nbsp; &nbsp; reading 
-&nbsp; &nbsp; &nbsp;&nbsp; [The Dawn of Everything: A New History of Humanity](https://www.wob.com/en-gb/books/david-graeber/dawn-of-everything/9780141991061?cq_src=google_ads&cq_cmp=18123540153&cq_con=&cq_med=pla_with_promotion&cq_plac=&cq_net=x&gad_source=1&gclid=CjwKCAiAzJOtBhALEiwAtwj8tlcWc6QJ3vH_c644ZO-zxDhawawrPU6ZuL1j3WPMTO1DtbxAsF4DYRoCs-MQAvD_BwE#GOR012327023) By David Graeber
+&nbsp; &nbsp; &nbsp;&nbsp; [Authority](https://en.wikipedia.org/wiki/Authority_(novel)) By Jeff VanderMeer
 #####
 
 #### Contact
