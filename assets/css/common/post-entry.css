@@ -66,6 +66,23 @@ body::-webkit-scrollbar-button {
     margin-bottom: 20px;
 }
 
+/* .cv {
+    width: 50vw;
+} */
+
+.experience {
+    position: absolute;
+    top: -2em;
+    left: 0;
+    margin-left: 30vw;
+    width: 65vw;
+    padding-left: 2em;
+}
+
+.info {
+    width: 30vw;
+}
+
 /* .post-entry:active {
     transform: scale(0.96);
 } */

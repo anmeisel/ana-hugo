@@ -29,15 +29,5 @@ Interests include luddism and maintainer communities.
 &nbsp; &nbsp; &nbsp;&nbsp; [Authority](https://en.wikipedia.org/wiki/Authority_(novel)) By Jeff VanderMeer
 #####
 
-#### Contact
-
-[E-mail](mailto:ana@4us4others.com) me if you're looking for a dev ㋡
-
-or recommend any books ♡ ✔
-
-Me on [ig](https://www.instagram.com/dj_anicka/)
-
-Me on [twitter](https://twitter.com/anicka81657257)
-
 #####
 #####
