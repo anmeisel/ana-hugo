@@ -9,7 +9,7 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel is a Polish-German web developer and software engineer from Czechia, based in London, UK. She runs internet art gallery [External Pages](https://externalpages.org/), is one half of tech history podcast [Our Friend The Computer](https://www.ourfriendthe.computer/) and one third of research group <i>Superkilogirls</i>. 
+Ana Meisel is a Polish-German technologist and software engineer from Czechia, based in London, UK. She runs internet art gallery [External Pages](https://externalpages.org/), is one half of tech history podcast [Our Friend The Computer](https://www.ourfriendthe.computer/) and one third of research group <i>Superkilogirls</i>. 
 
 Interests include luddism and maintainer communities.
 
