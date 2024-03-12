@@ -9,7 +9,7 @@ disableAnchoredHeadings: true
 {{< /rawhtml >}}
 
 #### Ana Meisel
-&nbsp; &nbsp; Web Developer & Designer
+&nbsp; &nbsp; Web Developer & Technologist
 #####
 
 ###### &nbsp; &nbsp; E-mail
