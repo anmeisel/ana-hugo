@@ -30,7 +30,7 @@ disableAnchoredHeadings: true
 
 #####
 ###### &nbsp; &nbsp; Languages
-&nbsp; &nbsp; German, Polish, Czech, English, basic French & Spanish
+&nbsp; &nbsp; German, Polish, Czech, English
 #####
 
 #### Education
