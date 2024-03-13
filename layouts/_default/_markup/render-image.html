@@ -1,1 +1,19 @@
-<img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} />
+<!-- <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}" {{ end }} /> -->
+
+<!-- {{ $img  := resources.Get "your_image_path_whatever"  }}
+{{ $placeholder := $img.Resize "3x q15" }}
+
+<picture>
+   <source type="image/png" srcset="{{- $img.Permalink -}}">
+   <img 
+   src="data:image/jpeg;base64,{{ $placeholder.Content | base64Encode }}"
+   data-src="{{- $img.Permalink -}}"
+   class="lazy"
+   width="{{- $img.Width -}}" height="{{- $img.Height -}}" {{ with .Title}} title="{{ . }}" {{ end }}>
+</picture> -->
+
+{{- if strings.HasPrefix .Destination "http" -}}
+  <img loading="lazy" src="{{ .Destination | safeURL }}" data-src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
+{{- else -}}
+  <img loading="lazy" src="{{ .Destination | safeURL }}" data-src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} {{ with imageConfig ( printf "static/%s" .Destination ) }} width={{ .Width }} height="{{ .Height }}" {{ end }} />
+{{- end -}}
