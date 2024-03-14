@@ -157,10 +157,10 @@ pre:hover .copy-code {
     border-bottom: 1px solid var(--quaternary);
 }
 
-.blurred-img {
+/* .blurred-img {
     background-repeat: no-repeat;
     background-size: cover;
-  }
+  } */
   
   .blurred-img::before {
     content: "";
