@@ -18,15 +18,12 @@ Me on [ig](https://www.instagram.com/dj_anicka/)
 
 Me on [twitter](https://twitter.com/anicka81657257)
 
-####
-####
-
-<!-- #### Portfolio
-###### &nbsp; &nbsp; [Selected works](https://web-portfolio.ana.help/)
-#### -->
-[Portfolio](https://web-portfolio.ana.help/)
-
-[CV](https://ana.help/cv)
+#####
+###### [CV](https://ana.help/cv)
+#####
+###### Portfolios
+###### &nbsp; &nbsp; [Websites](https://web-portfolio.ana.help/)
+###### &nbsp; &nbsp; [Art](https://art-portfolio.ana.help/)
 
 
 
