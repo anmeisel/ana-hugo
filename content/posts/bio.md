@@ -21,8 +21,6 @@ Interests include luddism and maintainer communities.
 &nbsp; &nbsp; &nbsp; &nbsp; C# and TypeScript
 #####
 ###### &nbsp; &nbsp; working on
-&nbsp; &nbsp; &nbsp; &nbsp; [Ari's site](https://ari-ui.vercel.app/)
-
 &nbsp; &nbsp; &nbsp; &nbsp; [Studio Jetstream's site](https://jetstream-ui.vercel.app/)
 #####
 ###### &nbsp; &nbsp; reading 
