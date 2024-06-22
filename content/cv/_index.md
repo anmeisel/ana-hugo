@@ -91,7 +91,13 @@ disableAnchoredHeadings: true
 &nbsp; &nbsp; Freelance [↗](https://web-portfolio.ana.help/)
 
 #####
-###### &nbsp; &nbsp;  February 2022 – Present
+###### &nbsp; &nbsp;  March 2024 – Present
+&nbsp; &nbsp; Web Developer & Tech Lead,
+
+&nbsp; &nbsp; [Accordion](https://accordion.live/)
+
+#####
+###### &nbsp; &nbsp;  February 2022 – April 2024
 &nbsp; &nbsp; Co-Founder & Host,
 
 &nbsp; &nbsp; [Our Friend the Computer](https://www.ourfriendthe.computer/)
@@ -103,13 +109,13 @@ disableAnchoredHeadings: true
 &nbsp; &nbsp; [4 Us & 4 Others](https://4us4others.com/)
 
 #####
-###### &nbsp; &nbsp;  May 2018 – 2024
+###### &nbsp; &nbsp;  May 2018 – January 2024
 &nbsp; &nbsp; Videographer & Editor,
 
 &nbsp; &nbsp; University of London Worldwide
 
 #####
-###### &nbsp; &nbsp;  October 2022 – 2024
+###### &nbsp; &nbsp;  October 2022 – March 2024
 &nbsp; &nbsp; Visiting Tutor in Design,
 
 &nbsp; &nbsp; Goldsmiths, University of London
