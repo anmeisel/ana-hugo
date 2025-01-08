@@ -31,7 +31,7 @@ Interests include luddism and maintainer communities.
 
 ###### &nbsp; &nbsp; reading
 
-&nbsp; &nbsp; &nbsp;&nbsp; [Silk: A History in Three Metamorphoses](https://www.williamcollinsbooks.co.uk/products/silk-a-history-in-three-metamorphoses-aarathi-prasad-9780008451844/) By Aarathi Prasad
+&nbsp; &nbsp; &nbsp;&nbsp; [Silk: A History in Three Metamorphoses](https://www.williamcollinsbooks.co.uk/products/silk-a-history-in-three-metamorphoses-aarathi-prasad-9780008451844/) by Aarathi Prasad
 
 #####
 
