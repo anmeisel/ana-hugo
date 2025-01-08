@@ -1,10 +1,10 @@
 ---
 date: 2023-08-12T13:22:44+01:00
 draft: false
-cover: 
-    image: imgs/PXL_20231229_123125073.jpg
-    alt: "checkout saying Pomelo Ugly"
-    caption: "checkout saying Pomelo Ugly"
+cover:
+  image: imgs/PXL_20241112_125839186.jpg
+  alt: "sunny park"
+  caption: "sunny park"
 disableAnchoredHeadings: true
 ---
 
@@ -16,21 +16,16 @@ or recommend any books ♡ ✔
 
 Me on [ig](https://www.instagram.com/dj_anicka/)
 
-Me on [twitter](https://twitter.com/anicka81657257)
+Me on [bluesky](https://bsky.app/profile/ana.help)
 
 #####
-###### [CV](https://ana.help/cv)
+
+###### <a href="/files/Meisel_Ana_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+
 #####
+
 ###### Portfolios
+
 ###### &nbsp; &nbsp; [Websites](https://web-portfolio.ana.help/)
+
 ###### &nbsp; &nbsp; [Art](https://art-portfolio.ana.help/)
-
-
-
-
-
-
-
-
-
-

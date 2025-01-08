@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Ana Meisel'
 theme = 'hugo-PaperMod'
 description = '㋡'
+[markup.goldmark.renderer]
+unsafe = true
