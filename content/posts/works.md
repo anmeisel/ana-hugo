@@ -18,6 +18,8 @@ Me on [ig](https://www.instagram.com/dj_anicka/)
 
 Me on [bluesky](https://bsky.app/profile/ana.help)
 
+Me on <a rel="me" href="https://mastodon.social/@anmeisel">mastodon</a>
+
 #####
 
 ###### <a href="/files/Meisel_Ana_CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
