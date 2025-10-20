@@ -2,9 +2,9 @@
 date: 2023-08-12T13:22:44+01:00
 draft: false
 cover:
-  image: imgs/PXL_20241112_125839186.jpg
-  alt: "sunny park"
-  caption: "sunny park"
+  image: imgs/PXL_20251001_060423242.jpg
+  alt: "rainbow in sky, view from park on top of a hill"
+  caption: "rainbow in sky, view from park on top of a hill"
 disableAnchoredHeadings: true
 ---
 

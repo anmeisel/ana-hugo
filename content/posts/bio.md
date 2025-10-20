@@ -3,9 +3,9 @@ title: "Bio"
 date: 2023-08-12T13:25:44+01:00
 draft: false
 cover:
-  image: imgs/PXL_20241228_105406606.jpg
-  alt: "red and purple flowers"
-  caption: "red and purple flowers"
+  image: imgs/PXL_20251008_183939032.jpg
+  alt: "full moon at night, view from street with parked cars and street lights"
+  caption: "full moon at night, view from street with parked cars and street lights"
 disableAnchoredHeadings: true
 ---
 
