@@ -3,7 +3,7 @@
 To view locally, simply run:
 `hugo server` in the root.
 
-# Guide
+## Guide
 
 I came across hugo around 2018? I wanted an easy static site generator and saw that low tech magazine were using it. I wanted to steal LTM's page size calculator as well but never got it to work.
 
@@ -159,4 +159,4 @@ However, my GitHub link and page size renderer are in the correct places and we'
 
 Back to my `header.css`, you'll find my static links, lazy loading, and accessibility ui.
 
-My `post-single.css` contains more granular styling around text and link colours and indentation.
+My `assets/css/common/post-single.css` contains more granular styling around text and link colours and indentation.
