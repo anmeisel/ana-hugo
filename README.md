@@ -9,7 +9,7 @@ I came across hugo around 2018? I wanted an easy static site generator and saw t
 
 Anyway, here's a little intro to how my hugo site is configured. I can't write about the md files specifically (which is where all my info lies) but here's the "heart" of the site...
 
-I can define my site settings in here. We're starting with the website's canonical URL!
+I can define my site settings in here:
 
 ```{.toml file=hugo.toml}
 baseURL = 'https://ana.help'
@@ -21,10 +21,10 @@ description = '㋡'
 unsafe = true
 ```
 
-First, define your language for site translators:
-
-- Meta title and meta description for SEO
-- You also have to use a theme (kinda like wp?)
+- `baseURL`: We're starting with the website's canonical URL.
+- `languageCode`: Define your language for site translators.
+- `title` and `description`: Meta title and meta description for SEO
+- `theme`: You also have to use a theme (kinda like wp?)
 - We have to then use the Goldmark library to render Markdown files into HTML using `[markup.goldmark.renderer]`
 - And `unsafe = true` is for the Goldmark Markdown renderer. It enables the rendering of raw HTML from Markdown files. By default, Hugo's Goldmark renderer ignores this HTML for security reasons, but setting this option to true allows you to include custom HTML elements, such as styled text, tables, or complex layouts.
 
