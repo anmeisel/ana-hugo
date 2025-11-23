@@ -1,69 +1,70 @@
 @media screen and (max-width: 768px) {
-    /* theme-vars */
-    :root {
-        --gap: 14px;
-    }
+  /* theme-vars */
+  :root {
+    --gap: 14px;
+  }
 
-    /* profile-mode */
-    .profile img {
-        transform: scale(0.85);
-    }
+  /* profile-mode */
+  .profile img {
+    transform: scale(0.85);
+  }
 
-    /* post-entry */
-    .first-entry {
-        min-height: 260px;
-    }
+  /* post-entry */
+  .left-entry {
+    min-height: 260px;
+  }
 
-    /* archive */
-    .archive-month {
-        flex-direction: column;
-    }
+  /* archive */
+  .archive-month {
+    flex-direction: column;
+  }
 
-    .archive-year {
-        margin-top: 20px;
-    }
+  .archive-year {
+    margin-top: 20px;
+  }
 
-    .logo-switches, .logo .blurry {
-        margin-bottom: 1rem;
-    }
+  .logo-switches,
+  .logo .blurry {
+    margin-bottom: 1rem;
+  }
 
-    .logo .blurry {
-        filter: blur(5px);
-    }
+  .logo .blurry {
+    filter: blur(5px);
+  }
 
-    .floating, .flame {
-        display: none;
-    }
+  .floating,
+  .flame {
+    display: none;
+  }
 
-    /* footer */
-    .footer {
-        /* padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap); */
-    }
+  /* footer */
+  .footer {
+    /* padding: calc((var(--footer-height) - var(--gap) - 10px) / 2) var(--gap); */
+  }
 
-    .post-content h6 {
-        margin-left: -1em;
-    }
+  .post-content h6 {
+    margin-left: -1em;
+  }
 
-    .post-content p {
-        
-    }
+  .post-content p {
+  }
 }
 
 /* footer */
 @media screen and (max-width: 900px) {
-    .list .top-link {
-        transform: translateY(-5rem);
-    }
+  .list .top-link {
+    transform: translateY(-5rem);
+  }
 }
 
 @media (prefers-reduced-motion) {
-    /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
-    .terms-tags a:active,
-    .button:active,
-    .post-entry:active,
-    .top-link,
-    #searchResults .focus,
-    #searchResults li:active {
-        transform: none;
-    }
+  /* terms; profile-mode; post-single; post-entry; post-entry; search; search */
+  .terms-tags a:active,
+  .button:active,
+  .post-entry:active,
+  .top-link,
+  #searchResults .focus,
+  #searchResults li:active {
+    transform: none;
+  }
 }

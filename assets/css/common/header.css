@@ -1,13 +1,8 @@
 .nav {
-  /* display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between; */
-  /* max-width: calc(var(--nav-width) + var(--gap) * 2); */
   position: fixed;
   right: 0;
   bottom: 0;
   margin-bottom: 15px;
-  /* line-height: var(--header-height); */
   z-index: 2;
 }
 

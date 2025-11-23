@@ -76,10 +76,10 @@ $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }} {{- end }} {{-
 $paginator := .Paginate $pages }} {{- if and .IsHome site.Params.homeInfoParams
 (eq $paginator.PageNumber 1) }} {{- partial "home_info.html" . }} {{- end }} {{-
 $term := .Data.Term }} {{- range $index, $page := $paginator.Pages }} {{- $class
-:= "post-entry" }} {{- $user_preferred := or site.Params.disableSpecial1stPost
+:= "right-entry" }} {{- $user_preferred := or site.Params.disableSpecial1stPost
 site.Params.homeInfoParams }} {{- if (and $.IsHome (eq $paginator.PageNumber 1)
-(eq $index 0) (not $user_preferred)) }} {{- $class = "first-entry" }} {{- else
-if $term }} {{- $class = "post-entry" }} {{- end }}
+(eq $index 0) (not $user_preferred)) }} {{- $class = "left-entry" }} {{- else if
+$term }} {{- $class = "right-entry" }} {{- end }}
 
 <article class="{{ $class }}">
   {{- $isHidden := (site.Params.cover.hidden | default

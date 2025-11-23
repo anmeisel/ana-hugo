@@ -1,0 +1,140 @@
+{
+  "files": [
+    {
+      "deps": null,
+      "hexdigest": "3c3de3f4c49ab5942c1fb174e5e1c528f4d90bd0ae448635594b3794b93875c1",
+      "modified": "2025-11-23T20:41:30.223824",
+      "path": "README.md",
+      "size": 4435
+    },
+    {
+      "deps": null,
+      "hexdigest": "40d263cd07a37701a6a67a0c3832ad4276760f30a271ec68607e0f7e0ecea3af",
+      "modified": "2023-08-12T12:50:06.110000",
+      "path": "archetypes/default.md",
+      "size": 84
+    },
+    {
+      "deps": [
+        "README.md"
+      ],
+      "hexdigest": "b1196dcdf272c8051c1e99f3803f56d5b44c625e989506a39f3c60fc814be837",
+      "modified": "2025-11-23T20:41:32.144197",
+      "path": "assets/css/common/post-entry.css",
+      "size": 1954
+    },
+    {
+      "deps": null,
+      "hexdigest": "07e4cd6c1419518c3536bff38d0acbf4ecbff2b5c600dfb85f2f8f85a61e16cc",
+      "modified": "2024-06-22T16:45:24.271643",
+      "path": "content/cv/_index.md",
+      "size": 3206
+    },
+    {
+      "deps": null,
+      "hexdigest": "ba52bd2f0f9faf66ead3a5950775499420cce7d30db6251b89bf49e4294652d9",
+      "modified": "2025-10-20T14:38:02.320963",
+      "path": "content/posts/bio.md",
+      "size": 1117
+    },
+    {
+      "deps": null,
+      "hexdigest": "9465e46ba1d08e47ca8224d549d290d4f919d14b4d5b20aa3a5edc3e28678616",
+      "modified": "2025-10-20T14:38:01.391038",
+      "path": "content/posts/works.md",
+      "size": 794
+    },
+    {
+      "deps": [
+        "README.md"
+      ],
+      "hexdigest": "2f72052d9670511bb333bb43298075dd7a527258cbb23fdf3ed3b4a741b6ae9d",
+      "modified": "2025-11-23T20:15:26.864211",
+      "path": "hugo.toml",
+      "size": 209
+    },
+    {
+      "deps": null,
+      "hexdigest": "2669d4e16504b1b819614f41a13f08095049f4f7b3fcfe1f7a3ccfc4f386adaf",
+      "modified": "2024-03-13T16:15:16.948828",
+      "path": "node_modules/ffmpeg/README.md",
+      "size": 10780
+    },
+    {
+      "deps": null,
+      "hexdigest": "0edf1fe984e73e0ff5a299313301d8743bd2da3bbbd62082c4c7f3d4ef951a06",
+      "modified": "2023-08-22T00:42:56.270000",
+      "path": "node_modules/n/README.md",
+      "size": 12219
+    },
+    {
+      "deps": null,
+      "hexdigest": "165968683aa50bbb5f785705bb0f6bf4fcaf94aced7642c90c974faa4ef8f3b8",
+      "modified": "2023-08-22T00:42:56.260000",
+      "path": "node_modules/stable/README.md",
+      "size": 2763
+    },
+    {
+      "deps": null,
+      "hexdigest": "3e49ee57fe30d5040e2f9f3ff166b3deb6afe5317e5f3b100453749f42c84710",
+      "modified": "2024-03-13T16:15:17.011349",
+      "path": "node_modules/when/CHANGES.md",
+      "size": 26361
+    },
+    {
+      "deps": null,
+      "hexdigest": "ef574307f66fa4fb739e5b289b890bc21cc699528fb8970c0faa70914d7128f5",
+      "modified": "2024-03-13T16:15:16.839481",
+      "path": "node_modules/when/README.md",
+      "size": 3654
+    },
+    {
+      "deps": null,
+      "hexdigest": "9057372e4aaa80495325c5ec1da38d2e0d6f12f26ef6327e6c7cf1df8e0a38d9",
+      "modified": "2024-03-13T16:15:16.956214",
+      "path": "node_modules/when/es6-shim/README.md",
+      "size": 242
+    },
+    {
+      "deps": null,
+      "hexdigest": "4ced2e4f3f4f7bcb8ea5e81073737bb9c903edbf0f0c4f34f547adacb46149a1",
+      "modified": "2024-03-13T16:15:17.016876",
+      "path": "node_modules/when/monitor/README.md",
+      "size": 179
+    },
+    {
+      "deps": null,
+      "hexdigest": "8b964d48928f448c23b311f0c84ac8197301b874a533b136145a6d06d7fb8b21",
+      "modified": "2023-08-12T14:08:01.220000",
+      "path": "themes/hugo-PaperMod/.github/ISSUE_TEMPLATE/bug_report.md",
+      "size": 1251
+    },
+    {
+      "deps": null,
+      "hexdigest": "2cb54d8ad49e208cdf3fe4a82a4a3ab0bc6bdfdd28fb01a845b3d1cdc7de08f1",
+      "modified": "2023-08-12T14:08:01.230000",
+      "path": "themes/hugo-PaperMod/.github/ISSUE_TEMPLATE/new-blank-issue.md",
+      "size": 103
+    },
+    {
+      "deps": null,
+      "hexdigest": "e40a17d941815c1ccaa1e215736cdf6db4f220711cb58a3ef4fab3c73d1e4558",
+      "modified": "2023-08-12T14:08:01.230000",
+      "path": "themes/hugo-PaperMod/.github/PULL_REQUEST_TEMPLATE.md",
+      "size": 1792
+    },
+    {
+      "deps": null,
+      "hexdigest": "e9db9a43e5603bdcfe25b1c2317399621914132b5b6fbdf8b308e0e3a1bcde7c",
+      "modified": "2023-08-12T14:08:01.230000",
+      "path": "themes/hugo-PaperMod/README.md",
+      "size": 4355
+    }
+  ],
+  "source": [],
+  "target": [
+    "assets/css/common/post-entry.css",
+    "hugo.toml"
+  ],
+  "version": "2.1.13"
+}
