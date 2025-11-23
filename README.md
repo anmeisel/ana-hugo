@@ -5,8 +5,9 @@ To view locally, simply run:
 
 # Guide
 
-I came across hugo probably around 2018. I wanted an easy static site generator and saw that low tech magazine were using it. I wanted to steal LTM's page size calculator as well but never got it to work.
-Anyway, here's a little intro to how my hugo site is configured. I can't write about the md files specifically (which is were all my info lies) but here's the "heart" of the site...
+I came across hugo around 2018? I wanted an easy static site generator and saw that low tech magazine were using it. I wanted to steal LTM's page size calculator as well but never got it to work.
+
+Anyway, here's a little intro to how my hugo site is configured. I can't write about the md files specifically (which is where all my info lies) but here's the "heart" of the site...
 
 I can define my site settings in here. We're starting with the website's canonical URL!
 
@@ -21,14 +22,15 @@ unsafe = true
 ```
 
 First, define your language for site translators:
-Meta title and meta description for SEO
-You also have to use a theme (kinda like wp?)
-We have to then use the Goldmark library to render Markdown files into HTML using `[markup.goldmark.renderer]`.
-And `unsafe = true` is for the Goldmark Markdown renderer. It enables the rendering of raw HTML from Markdown files. By default, Hugo's Goldmark renderer ignores this HTML for security reasons, but setting this option to true allows you to include custom HTML elements, such as styled text, tables, or complex layouts.
+
+- Meta title and meta description for SEO
+- You also have to use a theme (kinda like wp?)
+- We have to then use the Goldmark library to render Markdown files into HTML using `[markup.goldmark.renderer]`
+- And `unsafe = true` is for the Goldmark Markdown renderer. It enables the rendering of raw HTML from Markdown files. By default, Hugo's Goldmark renderer ignores this HTML for security reasons, but setting this option to true allows you to include custom HTML elements, such as styled text, tables, or complex layouts.
 
 I haven't modified anything from my original layout defined in the `hugo-PaperMod` other than my `.md` files in `content/` and my css. The markdown is pretty self-explanatory, so let's have a look at my css.
 
-I constructued my website into 2 columns.
+I constructed my website into 2 columns.
 
 This is my left side:
 
