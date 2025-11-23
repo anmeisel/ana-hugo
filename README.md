@@ -1,4 +1,4 @@
-# ana-hugo
+# Ana on Hugo
 
 To view locally, simply run:
 `hugo server` in the root.
