@@ -10,7 +10,7 @@ disableAnchoredHeadings: true
 
 #### Contact
 
-[E-mail](mailto:ana@4us4others.com) me if you're looking for a dev ㋡
+[E-mail](mailto:ana4a@proton.me) me if you're looking for a dev ㋡
 
 or recommend any books ♡ ✔
 
