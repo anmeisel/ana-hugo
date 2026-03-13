@@ -16,8 +16,6 @@ or recommend any books ♡ ✔
 
 Me on [ig](https://www.instagram.com/dj_anicka/)
 
-Me on [bluesky](https://bsky.app/profile/ana.help)
-
 Me on <a rel="me" href="https://mastodon.social/@anmeisel">mastodon</a>
 
 #####
@@ -28,6 +26,6 @@ Me on <a rel="me" href="https://mastodon.social/@anmeisel">mastodon</a>
 
 ###### Portfolios
 
-###### &nbsp; &nbsp; [Websites](https://web-portfolio.ana.help/)
+&nbsp; &nbsp; ~~Websites~~ - pls email to request!
 
 ###### &nbsp; &nbsp; [Art](https://art-portfolio.ana.help/)
