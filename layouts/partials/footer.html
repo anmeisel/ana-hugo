@@ -4,7 +4,7 @@
   <span>{{ site.Copyright | markdownify }}</span>
   {{- else }}
   <!-- <span>&copy; {{ now.Year }} <a href="https://github.com/anmeisel">GitHub</a>.</span> -->
-  <span><a href="https://github.com/anmeisel">GitHub</a> ☆☼</span>
+  <span><a href="https://sr.ht/~anmeisel/">sourcehut</a> ☆☼</span>
   {{- end }}
   <span>
     <!-- This is a static site powered by
@@ -135,7 +135,7 @@
     ) {
       // table containing LineNos and code
       codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(
-        copybutton
+        copybutton,
       );
     } else {
       // code blocks not having highlight as parent class
