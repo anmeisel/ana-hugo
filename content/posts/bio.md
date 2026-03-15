@@ -110,6 +110,7 @@ if (thisIndex == null) {
 #londonpermacomputring img {
     height: 1.5em;
     width: auto;
+    display: inline-block;
 }
 
 #londonpermacomputring table tr td {
@@ -130,10 +131,6 @@ if (thisIndex == null) {
 
 #londonpermacomputring.webring-links {
     font-size: small;
-}
-
-#londonpermacomputring .webring-info img {
-    display: inline-block;
 }
 
 table:not(#londonpermacomputring table):not(.post-content #londonpermacomputring table),
