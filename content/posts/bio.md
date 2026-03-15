@@ -132,6 +132,10 @@ if (thisIndex == null) {
     font-size: small;
 }
 
+#londonpermacomputring .webring-info img {
+    display: inline-block;
+}
+
 table:not(#londonpermacomputring table):not(.post-content #londonpermacomputring table),
 .post-content table:not(#londonpermacomputring table) {
   all: initial !important;
