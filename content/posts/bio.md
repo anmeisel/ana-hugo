@@ -104,6 +104,7 @@ if (thisIndex == null) {
     margin: 0 auto;
     background-color: #ffffff70;
     border: 1px solid #00AA00;
+    float: left;
 }
 
 #londonpermacomputring img {
@@ -129,5 +130,11 @@ if (thisIndex == null) {
 
 #londonpermacomputring.webring-links {
     font-size: small;
+}
+
+table:not(#londonpermacomputring table):not(.post-content #londonpermacomputring table),
+.post-content table:not(#londonpermacomputring table) {
+  all: initial !important;
+  display: table !important;
 }
 </style>
