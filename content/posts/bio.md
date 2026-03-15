@@ -43,7 +43,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
         <tr>
             <td class='webring-prev'><a id='permaPrev'>←</a></td>
             <td class='webring-info'>
-                <img src='https://www.iso-bel.computer/static/webring/flower.png'><img src='https://www.iso-bel.computer/static/webring/flower.png'><img src='https://www.iso-bel.computer/static/webring/flower.png'>
+                <img src='https://www.iso-bel.computer/static/webring/flower.png'>
                 <br>I'm in the <a href='https://london.permacomputing.net/posts/index.html'>London Permacomputing</a> Club!
                 <br>We meet on Mondays at 6:30, @ <a href='https://www.openstreetmap.org/way/72032052'>SET Social, Peckham</a><br>
                 <span class='webring-links'>
@@ -116,18 +116,32 @@ if (thisIndex == null) {
 }
 
 #londonpermacomputring.webring-prev {
-    text-align:right;
+    text-align: right;
 }
 
 #londonpermacomputring.webring-info {
-    text-align:center;
+    text-align: center;
 }
 
 #londonpermacomputring.webring-next {
-    text-align:left;
+    text-align: left;
 }
 
 #londonpermacomputring.webring-links {
-    font-size:small;
+    font-size: small;
+}
+
+@media screen and (max-width: 900px) {
+    .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+        min-width: 35px;
+    }
+
+    #londonpermacomputring.webring-prev {
+        text-align: center;
+    }
+
+    #londonpermacomputring.webring-next {
+        text-align: center;
+    }
 }
 </style>
