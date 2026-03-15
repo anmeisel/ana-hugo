@@ -130,18 +130,4 @@ if (thisIndex == null) {
 #londonpermacomputring.webring-links {
     font-size: small;
 }
-
-@media screen and (max-width: 900px) {
-    .post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
-        min-width: 35px;
-    }
-
-    #londonpermacomputring.webring-prev {
-        text-align: center;
-    }
-
-    #londonpermacomputring.webring-next {
-        text-align: center;
-    }
-}
 </style>
