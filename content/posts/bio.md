@@ -43,7 +43,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
         <tr>
             <td class='webring-prev'><a id='permaPrev'>←</a></td>
             <td class='webring-info'>
-                <img src='https://www.iso-bel.computer/static/webring/flower.png'>
+                <img src='https://www.iso-bel.computer/static/webring/flower.png'><img src='https://www.iso-bel.computer/static/webring/flower.png'><img src='https://www.iso-bel.computer/static/webring/flower.png'>
                 <br>I'm in the <a href='https://london.permacomputing.net/posts/index.html'>London Permacomputing</a> Club!
                 <br>We meet on Mondays at 6:30, @ <a href='https://www.openstreetmap.org/way/72032052'>SET Social, Peckham</a><br>
                 <span class='webring-links'>
