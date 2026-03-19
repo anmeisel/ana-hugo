@@ -1,4 +1,3 @@
-# ~/~ begin <<README.md#hugo.toml>>[init]
 baseURL = 'https://ana.help'
 languageCode = 'en-us'
 title = 'Ana Meisel'
@@ -11,4 +10,3 @@ unsafe = true
 [author]
 name = "Ana Meisel"
 email = "hi@ana.help"
-# ~/~ end
