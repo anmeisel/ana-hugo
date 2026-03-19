@@ -4,6 +4,10 @@ title = 'Ana Meisel'
 theme = 'hugo-PaperMod'
 description = '㋡'
 
+[social]
+twitter = "anmeisel"
+# facebook_admin = "123456789"  # optional for Facebook insights
+
 [markup.goldmark.renderer]
 unsafe = true
 
