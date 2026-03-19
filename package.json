@@ -3,5 +3,14 @@
     "ffmpeg": "^0.0.4",
     "n": "^9.1.0",
     "stable": "^0.1.8"
+  },
+  "devDependencies": {
+    "hugo-extended": "^0.158.0"
+  },
+  "scripts": {
+    "hugo": "hugo-extended",
+    "build": "hugo-extended",
+    "serve": "hugo-extended server",
+    "reset": "entangled reset"
   }
 }

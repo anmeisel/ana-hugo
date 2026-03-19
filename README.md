@@ -11,14 +11,19 @@ Anyway, here's a little intro to how my hugo site is configured. I can't write a
 
 I can define my site settings in here:
 
-```{.toml file=hugo.toml}
+``` {.toml file=hugo.toml}
 baseURL = 'https://ana.help'
 languageCode = 'en-us'
 title = 'Ana Meisel'
 theme = 'hugo-PaperMod'
 description = '㋡'
+
 [markup.goldmark.renderer]
 unsafe = true
+
+[author]
+name = "Ana Meisel"
+email = "hi@ana.help"
 ```
 
 - `baseURL`: We're starting with the website's canonical URL.

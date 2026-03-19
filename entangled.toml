@@ -1,0 +1,20 @@
+# entangled.toml
+version = "2.0"
+
+[[project]]
+name = "ana-hugo"
+watch = ["**/*.md"]
+ignore = []
+
+  [[project.tangle]]
+  source = "README.md"  # or whatever your main literate file is
+  destination = "hugo.toml"
+  language = "toml"
+  block = "hugo.toml"  # This matches the block name in your markdown
+
+  # You can add other files to tangle
+  [[project.tangle]]
+  source = "README.md"
+  destination = "config/_default/params.toml"
+  language = "toml"
+  block = "params"
