@@ -14,8 +14,6 @@ disableAnchoredHeadings: true
 
 or recommend any books ♡ ✔
 
-Me on [ig](https://www.instagram.com/dj_anicka/)
-
 Me on <a rel="me" href="https://mastodon.social/@anmeisel">mastodon</a>
 
 #####
