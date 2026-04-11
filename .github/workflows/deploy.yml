@@ -24,7 +24,7 @@ jobs:
           username: ${{ secrets.ALWAYSDATA_USERNAME }}
           server: ${{ secrets.ALWAYSDATA_SERVER }}
           port: 22
-          local_path: "./public/*"
+          local_path: "./public/"
           remote_path: "/www/"
           sftp_only: true
           password: ${{ secrets.ALWAYSDATA_PASSWORD }}
