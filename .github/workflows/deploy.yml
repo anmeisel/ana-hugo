@@ -18,11 +18,13 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Deploy via FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: Deploy via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          server: ${{ secrets.ALWAYSDATA_SERVER }}
           username: ${{ secrets.ALWAYSDATA_USERNAME }}
+          server: ${{ secrets.ALWAYSDATA_SERVER }}
+          port: 22
+          local_path: "./public/*"
+          remote_path: "/www/"
+          sftp_only: true
           password: ${{ secrets.ALWAYSDATA_PASSWORD }}
-          local-dir: ./public/
-          server-dir: /www/
