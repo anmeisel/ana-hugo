@@ -25,4 +25,4 @@ jobs:
           username: ${{ secrets.ALWAYSDATA_USERNAME }}
           password: ${{ secrets.ALWAYSDATA_PASSWORD }}
           local-dir: ./public/
-          server-dir: /www/ana/
+          server-dir: /www/
