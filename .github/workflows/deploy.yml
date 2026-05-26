@@ -18,8 +18,13 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Deploy via lftp
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y lftp
-          lftp -c "set sftp:auto-confirm yes; open -u ${{ secrets.ALWAYSDATA_USERNAME }},${{ secrets.ALWAYSDATA_PASSWORD }} sftp://${{ secrets.ALWAYSDATA_SERVER }}:22; mirror -R ./public/ /home/ana/www/ --verbose --delete --parallel=4 --exclude .git*"
+      - name: Deploy via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+        with:
+          username: ${{ secrets.ALWAYSDATA_USERNAME }}
+          server: ${{ secrets.ALWAYSDATA_SERVER }}
+          port: 22
+          local_path: "./public/"
+          remote_path: "/home/ana/www/"
+          sftp_only: true
+          password: ${{ secrets.ALWAYSDATA_PASSWORD }}
