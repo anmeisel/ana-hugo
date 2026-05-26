@@ -9,7 +9,7 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel is a Polish-German web developer based in London, UK, who runs internet art gallery [External Pages](https://externalpages.org/) and is one-third of the research group [Superkilogirls](https://superkilogirls.com/). Interests include Luddism, low-tech, permaculture, and -computing.
+Ana Meisel is a Polish-German web developer based in London, UK, who runs internet art gallery [External Pages](https://externalpages.org/) and is one-third of the research group [Superkilogirls](https://superkilogirls.com/). Interests include Luddism, low-tech, permaculture, and -computing. They recently co-founded a low-resource, sustainability-focused web design, development and consultation studio with Stéphane Lambion called Subslime.
 
 #####
 
@@ -30,7 +30,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
 ###### &nbsp; &nbsp; reading
 
 &nbsp; &nbsp; &nbsp;&nbsp; [Jaw Filler](https://www.montezpress.com/catalogue/books/jaw-filler/) by Maz Murray and Charlie Markbreiter
-&nbsp; &nbsp; &nbsp;&nbsp; [Fossil Capital](https://dn720006.ca.archive.org/0/items/fossil-capital-the-rise-of-steam-power-an-andreas-malm/Fossil%20Capital_%20The%20Rise%20of%20Steam-Power%20an%20-%20Andreas%20Malm.pdf) by Andreas Malm
+&nbsp; &nbsp; &nbsp;&nbsp; [The AI Con](https://thecon.ai/) by Emily M. Bender and Alex Hanna
 
 #####
 
