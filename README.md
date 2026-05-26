@@ -11,7 +11,7 @@ Anyway, here's a little intro to how my hugo site is configured. I can't write a
 
 I can define my site settings in here:
 
-``` {.toml file=hugo.toml}
+```{.toml file=hugo.toml}
 baseURL = 'https://ana.help'
 languageCode = 'en-us'
 title = 'Ana Meisel'
@@ -165,3 +165,9 @@ However, my GitHub link and page size renderer are in the correct places and we'
 Back to my `header.css`, you'll find my static links, lazy loading, and accessibility ui.
 
 My `assets/css/common/post-single.css` contains more granular styling around text and link colours and indentation.
+
+## Deploy
+
+rm -rf public/
+hugo --minify
+rsync -avz --delete public/ ana@ssh-ana.alwaysdata.net:/home/ana/www/
