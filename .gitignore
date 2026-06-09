@@ -11,6 +11,8 @@ hugo.linux
 
 .DS_Store
 
+.env
+
 # solar_v2 theme specific
 content/*/*/images/dithers/
 content/*/images/dithers/
@@ -19,8 +21,6 @@ content/*/images/dithers/
 __pycache__/
 *.py[cod]
 *$py.class
-
-.vercel
 
 portfolio-ui/src/client.js
 node_modules
