@@ -23,7 +23,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
 
 ###### &nbsp; &nbsp; working on
 
-&nbsp; &nbsp; &nbsp; &nbsp; Researching diy tech cultures during the comecon.. hmu if you have experiences to share ~
+&nbsp; &nbsp; &nbsp; &nbsp; My [scrap computer](https://scrap.computer/) where I research DIY tech cultures of the Eastern Bloc.
 
 #####
 
