@@ -29,7 +29,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
 
 ###### &nbsp; &nbsp; reading
 
-&nbsp; &nbsp; &nbsp;&nbsp; [Cybernetic Circulation Complex](https://www.versobooks.com/en-gb/products/3109-cybernetic-circulation-complex) by Nick Dyer-Witheford and Alessandra Mularoni
+&nbsp; &nbsp; &nbsp;&nbsp; [Fancy Work](https://fitzcarraldoeditions.com/books/fancy-work-unpicking-past-lives/) by Alice Hattrick
 &nbsp; &nbsp; &nbsp;&nbsp; [Dune](https://www.waterstones.com/book/dune/frank-herbert/9780340960196) by Frank Herbert
 
 #####
