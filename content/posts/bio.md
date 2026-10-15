@@ -23,7 +23,7 @@ Ana Meisel is a web developer from Czechia based in London, UK, who runs interne
 
 ###### &nbsp; &nbsp; working on
 
-&nbsp; &nbsp; &nbsp; &nbsp; [Scrap computer](https://scrap.computer/), research DIY tech cultures of the Eastern Bloc
+&nbsp; &nbsp; &nbsp; &nbsp; [Scrap computer](https://scrap.computer/), researching DIY tech cultures of the Eastern Bloc
 
 #####
 
