@@ -18,13 +18,12 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
 
-      - name: Deploy via SFTP
-        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
+      - name: Deploy via rsync
+        uses: burnett01/rsync-deployments@7.0.1
         with:
-          username: ${{ secrets.ALWAYSDATA_USERNAME }}
-          server: ${{ secrets.ALWAYSDATA_SERVER }}
-          port: 22
-          local_path: "./public/"
-          remote_path: "/home/ana/www/"
-          sftp_only: true
-          password: ${{ secrets.ALWAYSDATA_PASSWORD }}
+          switches: -avz --delete
+          path: public/
+          remote_path: /home/ana/www/
+          remote_host: ssh-ana.alwaysdata.net
+          remote_user: ana
+          remote_key: ${{ secrets.ALWAYSDATA_SSH_KEY }}
