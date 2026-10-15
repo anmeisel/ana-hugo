@@ -9,7 +9,7 @@ cover:
 disableAnchoredHeadings: true
 ---
 
-Ana Meisel is a Polish-German web developer based in London, UK, who runs internet art gallery [External Pages](https://externalpages.org/) and is one-third of the research group [Superkilogirls](https://superkilogirls.com/). Interests include Luddism, low-tech, permaculture, and -computing. They recently co-founded a low-resource, sustainability-focused web design, development and consultation studio with Stéphane Lambion called [Subslime](https://subslime.studio/).
+Ana Meisel is a web developer from Czechia based in London, UK, who runs internet art gallery [External Pages](https://externalpages.org/) and is one-third of the research group [Superkilogirls](https://superkilogirls.com/). Interests include Luddism, low-tech, permaculture, and -computing. They recently co-founded a low-resource, sustainability-focused web design, development and consultation studio called [Subslime](https://subslime.studio/).
 
 #####
 
@@ -30,7 +30,7 @@ Ana Meisel is a Polish-German web developer based in London, UK, who runs intern
 ###### &nbsp; &nbsp; reading
 
 &nbsp; &nbsp; &nbsp;&nbsp; [Fancy Work](https://fitzcarraldoeditions.com/books/fancy-work-unpicking-past-lives/) by Alice Hattrick
-&nbsp; &nbsp; &nbsp;&nbsp; [Dune](https://www.waterstones.com/book/dune/frank-herbert/9780340960196) by Frank Herbert
+&nbsp; &nbsp; &nbsp;&nbsp; [The Mushroom at the End of the World](https://en.wikipedia.org/wiki/The_Mushroom_at_the_End_of_the_World) by Anna Tsing
 
 #####
 
