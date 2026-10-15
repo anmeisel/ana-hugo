@@ -23,9 +23,16 @@ Ana Meisel is a web developer from Czechia based in London, UK, who runs interne
 
 ###### &nbsp; &nbsp; working on
 
-&nbsp; &nbsp; &nbsp; &nbsp; My [scrap computer](https://scrap.computer/) where I research DIY tech cultures of the Eastern Bloc.
+&nbsp; &nbsp; &nbsp; &nbsp; My [scrap computer](https://scrap.computer/) where I research DIY tech cultures of the Eastern Bloc
 
 #####
+
+###### &nbsp; &nbsp; showing
+
+&nbsp; &nbsp; &nbsp; &nbsp; [Manual for Superfluous Motions](https://anmeisel.srht.site/) at [Motherborads](https://sjmusart.org/exhibition/motherboards), San José Museum of Art
+
+#####
+
 
 ###### &nbsp; &nbsp; reading
 
